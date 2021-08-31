@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data-Structure.iml" filepath="$PROJECT_DIR$/.idea/Data-Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci number/Fibonacci number.iml" filepath="$PROJECT_DIR$/Fibonacci number/Fibonacci number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum of digits/Sum of digits.iml" filepath="$PROJECT_DIR$/Sum of digits/Sum of digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power of a number/power of a number.iml" filepath="$PROJECT_DIR$/power of a number/power of a number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+    </modules>
+  </component>
+</project>
